@@ -1,0 +1,1 @@
+<img src="../images/Obi-Wan.jpg" alt="Оби-Ван Кеноби">

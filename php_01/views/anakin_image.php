@@ -1,0 +1,1 @@
+<img src="../images/Anakin.jpg" alt="Энакин Скайуокер">
